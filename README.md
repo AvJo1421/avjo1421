@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there! Welcome to my Github profile!! 👋
+I am Atharva Atul Joshi, MSc Data Science Graduate. One of the best definitions of data science, came from my professor when I started my Data Science Journey. He said and I quote, Data Science is asking questions to the data! This has been my core value while working on any project, while doing any research. All the projects I do which you will see here on my Github keep that one question in mind. I am someone who prefers quality over quantity, purpose driven approach over trends driven approach, sustainability oriented projects over fleeting, hype-driven work.
 <!--
 **AvJo1421/avjo1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
